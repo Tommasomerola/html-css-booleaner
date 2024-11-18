@@ -23,5 +23,17 @@ header{
 
 .body-tabella{
    background-color: aqua;
-  
 }
+
+#titolo-footer{
+   color: gray;
+   font-size: larger;
+   
+}
+
+.scritta-foto{
+   position: absolute;
+   color: aliceblue;
+   font-size: larger;
+}
+
